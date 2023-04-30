@@ -1,8 +1,11 @@
 # ChessboardCameraCalibration
 opencv를 이용하여 chessboard를 camera calibration 합니다.
+해당 결과를 이용하여 pose estimation을 진행하여 왕관 모양의 아이콘을 표시합니다.
 
 ### Camera Calibration
 ![video](./Resources/result_1.gif)
+
+- Camera Calibration 결과
 
 ```
 * The number of selected images = 57
@@ -18,4 +21,4 @@ opencv를 이용하여 chessboard를 camera calibration 합니다.
 ### Pose Estimation
 ![video](./Resources/result_2.gif)
 
-- 체스 보드 위에 왕관 모양의 아이콘을 생성합니다.
+- 체스 보드 위에 왕관 모양의 아이콘 생성
