@@ -1,5 +1,5 @@
 # ChessboardCameraCalibration
-opencv를 이용하여 chessboard를 camera calibration 합니다.
+opencv를 이용하여 chessboard를 camera calibration 합니다.  
 해당 결과를 이용하여 pose estimation을 진행하여 왕관 모양의 아이콘을 표시합니다.
 
 ### Camera Calibration
